@@ -5,7 +5,7 @@ langchain-community
 langchain
 langchain-huggingface
 langchain-text-splitters
-unstructured
+
 unstructured[pdf]
 langchain-unstructured
 langchain-chroma
